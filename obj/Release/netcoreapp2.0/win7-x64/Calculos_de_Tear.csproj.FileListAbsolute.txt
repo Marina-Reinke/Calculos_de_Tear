@@ -1,0 +1,13 @@
+/home/marina/Projetos/Calculos_de_Tear/bin/Release/netcoreapp2.0/win7-x64/hostpolicy.dll
+/home/marina/Projetos/Calculos_de_Tear/bin/Release/netcoreapp2.0/win7-x64/hostfxr.dll
+/home/marina/Projetos/Calculos_de_Tear/bin/Release/netcoreapp2.0/win7-x64/Calculos_de_Tear.exe
+/home/marina/Projetos/Calculos_de_Tear/bin/Release/netcoreapp2.0/win7-x64/Calculos_de_Tear.deps.json
+/home/marina/Projetos/Calculos_de_Tear/bin/Release/netcoreapp2.0/win7-x64/Calculos_de_Tear.runtimeconfig.json
+/home/marina/Projetos/Calculos_de_Tear/bin/Release/netcoreapp2.0/win7-x64/Calculos_de_Tear.runtimeconfig.dev.json
+/home/marina/Projetos/Calculos_de_Tear/bin/Release/netcoreapp2.0/win7-x64/Calculos_de_Tear.dll
+/home/marina/Projetos/Calculos_de_Tear/bin/Release/netcoreapp2.0/win7-x64/Calculos_de_Tear.pdb
+/home/marina/Projetos/Calculos_de_Tear/obj/Release/netcoreapp2.0/win7-x64/Calculos_de_Tear.csproj.CoreCompileInputs.cache
+/home/marina/Projetos/Calculos_de_Tear/obj/Release/netcoreapp2.0/win7-x64/Calculos_de_Tear.AssemblyInfoInputs.cache
+/home/marina/Projetos/Calculos_de_Tear/obj/Release/netcoreapp2.0/win7-x64/Calculos_de_Tear.AssemblyInfo.cs
+/home/marina/Projetos/Calculos_de_Tear/obj/Release/netcoreapp2.0/win7-x64/Calculos_de_Tear.dll
+/home/marina/Projetos/Calculos_de_Tear/obj/Release/netcoreapp2.0/win7-x64/Calculos_de_Tear.pdb
